@@ -1,3 +1,4 @@
 # C-Programs-Logic-Building-
 <br/>
-<h3>Author: </h3> <h3> Arijit Chowdhury</h3>
+Author: Arijit Chowdhury<br>
+<h3>Programming Enthusiast || C++ || Python Developer </h3>
